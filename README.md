@@ -1,7 +1,5 @@
-# Introduction
-A Robust Matching Network for Gradually Estimating Geometric Transformation on Remote Sensing Imagery.
-
-A RMN has been accepted at SMC 2019!
+## Introduction
+**(A Robust Matching Network for Gradually Estimating Geometric Transformation on Remote Sensing Imagery) has been accepted at SMC 2019!
 
 
-https://ieeexplore.ieee.org/document/8913881
+[A Robust Matching Network for Gradually Estimating Geometric Transformation on Remote Sensing Imagery](https://ieeexplore.ieee.org/document/8913881)
