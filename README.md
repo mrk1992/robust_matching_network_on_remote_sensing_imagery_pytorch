@@ -48,5 +48,6 @@ E-mail : <dgkim0813@gmail.com>
 
 I recommend to run gui.py
 
+<img src="https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG"></img>
 
 
