@@ -48,5 +48,5 @@ E-mail : <dgkim0813@gmail.com>
 
 Supports real-time matching.
 
-![gui](https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG){:.aligncenter}
+<center><img src="https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG")</center>
 
