@@ -46,7 +46,7 @@ E-mail : <dgkim0813@gmail.com>
 
 ## Screenshot for running gui.py 
 
-Supports real-time matching.
+Support real-time matching.
 
 <center><img src="https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG")</center>
 
