@@ -24,6 +24,5 @@ Link : [Trained models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9
 saved in ./trained_models
 
 ## Contact
-```
+
 E-mail : <dgkim0813@gmail.com>
-```
