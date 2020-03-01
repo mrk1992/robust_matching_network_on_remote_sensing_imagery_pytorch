@@ -44,10 +44,10 @@ I currently research the NAS (Nerual Architecture Search) to create a network su
 E-mail : <dgkim0813@gmail.com>
 
 
-## Gui.py for real-time matching
+## Screenshot for running Gui.py 
 
-I recommend to run gui.py
+gui.py supports real-time matching.
 
-<img src="https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG"></img>
+<center><img src="https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG"></center>
 
 
