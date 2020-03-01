@@ -15,7 +15,7 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
 ## Run
 ```
   python demo.py
-  python gui.py
+  python gui.py (recommended)
 ```  
 ## Trained models
 
@@ -37,4 +37,16 @@ Download link : [models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias
 
 ## Contact
 
+If you need more performance, further research or issues, please feel free to contact me anytime.
+
+I currently research the NAS (Nerual Architecture Search) to create a network suitable for specific image domain.
+
 E-mail : <dgkim0813@gmail.com>
+
+
+## Gui.py for real-time matching
+
+I recommend to run gui.py
+
+
+
