@@ -44,9 +44,9 @@ I currently research the NAS (Nerual Architecture Search) to create a network su
 E-mail : <dgkim0813@gmail.com>
 
 
-## Screenshot for running Gui.py 
+## Screenshot for running gui.py 
 
-gui.py supports real-time matching.
+Supports real-time matching.
 
-![gui](https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG) {:.aligncenter}
+![gui](https://user-images.githubusercontent.com/11848064/75630306-ec3da200-5c2c-11ea-8083-6f2bea7626ba.PNG){:.aligncenter}
 
