@@ -7,6 +7,7 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
 
 ## Requirements
 ```
+  python==3.6.8
   torch==1.0.1
   torchvision=0.2.2
   PyQt5==5.14 (for gui)
@@ -17,7 +18,11 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
   ./gui
 ```  
 ## Trained models
-  
-
+```  
+Link : [Trained models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "saved model link")
+saved in ./trained_models
+```
 ## Contact
-E-mail: <dgkim0813@gmail.com>
+```
+E-mail : <dgkim0813@gmail.com>
+```
