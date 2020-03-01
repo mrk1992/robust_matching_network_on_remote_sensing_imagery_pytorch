@@ -14,8 +14,8 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
 ```  
 ## Run demo
 ```
-  ./demo
-  ./gui
+  python demo.py
+  python gui.py
 ```  
 ## Trained models
 
