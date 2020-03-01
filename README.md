@@ -23,6 +23,18 @@ Save the files in ./trained_models folder
 
 Download link : [models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "trained models link")
 
+## Citation
+```
+@inproceedings{kim2019robust,
+  title={A Robust Matching Network for Gradually Estimating Geometric Transformation on Remote Sensing Imagery},
+  author={Kim, Dong-Geon and Nam, Woo-Jeoung and Lee, Seong-Whan},
+  booktitle={2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)},
+  pages={3889--3894},
+  year={2019},
+  organization={IEEE}
+}
+```  
+
 ## Contact
 
 E-mail : <dgkim0813@gmail.com>
