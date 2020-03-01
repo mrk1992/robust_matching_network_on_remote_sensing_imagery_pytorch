@@ -19,9 +19,9 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
 ```  
 ## Trained models
 
-Link : [trained models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "saved model link")
-
 saved in ./trained_models
+
+Link : [trained models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "saved model link")
 
 ## Contact
 
