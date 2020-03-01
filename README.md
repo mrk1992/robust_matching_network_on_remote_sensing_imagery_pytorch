@@ -21,7 +21,7 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
 
 Save the files in ./trained_models folder
 
-Download link : [models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "trained models link")
+Download link : [ResNet models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "trained models link")
 
 ## Citation
 ```
