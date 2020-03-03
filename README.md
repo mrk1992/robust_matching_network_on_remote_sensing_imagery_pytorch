@@ -11,6 +11,7 @@ This paper has been accepted in SMC 2019. [[SMC version](https://ieeexplore.ieee
   torch==1.0.1
   torchvision=0.2.2
   PyQt5==5.14 (for gui)
+  opencv==3.4.1 (for gui)
 ```  
 ## Run
 ```
