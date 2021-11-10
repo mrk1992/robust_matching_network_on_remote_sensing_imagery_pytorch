@@ -49,5 +49,6 @@ E-mail : <dgkim0813@gmail.com>
 
 Support real-time matching and overlay.
 
-<center><img src="https://user-images.githubusercontent.com/11848064/75682221-670fc700-5cd8-11ea-9691-ac2d33f92fe2.gif")</center>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11848064/75682221-670fc700-5cd8-11ea-9691-ac2d33f92fe2.gif" />
 
