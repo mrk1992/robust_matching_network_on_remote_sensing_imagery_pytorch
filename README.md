@@ -23,7 +23,7 @@ This paper has been accepted in SMC 2019. [[Paper](https://github.com/mrk1992/ro
 
 Save the files in ./trained_models folder
 
-Download link : [ResNet models](https://drive.google.com/file/d/1au049oWWxio9Pgowo4Rias9knL_yiNth/view?usp=sharing, "trained models link")
+Download link : [ResNet models](https://drive.google.com/file/d/1FJfigaypeSWATWmmeFv9r8xlP1XrMbqK/view?usp=sharing, "trained models link")
 
 ## Citation
 ```
